@@ -13,10 +13,9 @@ private:
   public:
     void Shoot();
     bool IsAlive();
-    
+
     int GetLife();
     void SetLife(int lifeValue);
 };
-
 
 #endif
